@@ -233,7 +233,7 @@ body{
     background-color: #ffcccc;
     transform: translate(-1%, -14%);
   }
-  
+
 /* testimonial-section */
 
 
@@ -300,7 +300,7 @@ body{
 /* footer-section */
 
 .footer-section{
-    margin: 30px 0;
+    margin-top: 30px;
     background: #FFF4E7;
     padding: 30px 0;
     
